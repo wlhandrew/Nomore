@@ -1,0 +1,138 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Nomore",
+      "publisher": "Andrew Wong",
+      "tray_image_file": "nomore.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😄","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["🖕","😕"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😉","👍"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😋","😣"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😞","😥"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😒","😑"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["🤘","🤟"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😏","😬"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["👊","🖕"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😏","📷"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😎","✌️"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🙏","🙇"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🙇","🙌"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😝","😈"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😟","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["🙈","🙉"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🙏","👍"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🙌","🙇"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😆","🍻"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😂","😆"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😛","😜"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😦","😧"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😴","💤"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😂","🤣"]
+        }
+      ]
+    }
+  ]
+}
